@@ -11,4 +11,5 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **build-002:** Para implementação de *deteccrt.001*
 * **build-001:** Para implementação de *deteccpu.001*
