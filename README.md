@@ -11,6 +11,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **build-005:** Para implementação de *loadlos.001*
 * **build-004:** Para implementação de *detecmem.002*
 * **build-003:** Para implementação de *detecmem.001*
 * **build-002:** Para implementação de *deteccrt.001*
