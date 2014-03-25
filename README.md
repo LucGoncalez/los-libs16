@@ -11,6 +11,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **build-008:** Para implementação de *loadlos.004*
 * **build-007:** Para implementação de *loadlos.003*
 * **build-006:** Para implementação de *loadlos.002*
 * **build-005:** Para implementação de *loadlos.001*
