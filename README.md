@@ -11,6 +11,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **build-010:** Para implementação das funções para A20
 * **build-009:** Para implementação de *loadlos.005*
 * **build-008:** Para implementação de *loadlos.004*
 * **build-007:** Para implementação de *loadlos.003*
