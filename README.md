@@ -11,6 +11,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **build-015:** Correção de bug em bootbt
 * **build-014:** Para implementação de *loadlos.013*
 * **build-013:** Para implementação de *loadlos.012*
 * **build-012:** Para implementação de *loadlos.010*
