@@ -1,4 +1,4 @@
-# LibLOS16 #
+# LOS-Libs16 #
 **Repositório do Projeto LOS para as bibliotecas de 16 bits.**
 
 Estas bibliotecas serão usadas, principalmente, durante o processo de boot do sistema.
